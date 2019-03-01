@@ -1,0 +1,22 @@
+{
+  "name": "duhaLib",
+  "version": "0.1.0",
+  "summary": "A short description of duhaLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/duhuanan/duhaLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "duhuanan": "547672630@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/duhuanan/duhaLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "duhaLib/Classes/**/*"
+}

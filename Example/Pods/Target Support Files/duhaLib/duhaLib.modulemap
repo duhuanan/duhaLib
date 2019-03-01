@@ -1,0 +1,6 @@
+framework module duhaLib {
+  umbrella header "duhaLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
